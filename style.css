@@ -1,0 +1,13 @@
+body {
+    background:rgba(255,0,0,0.4);
+}
+
+#img1 {
+    position:absolute;
+}
+
+#img2 {
+    position:absolute;
+    left:380px;
+    top:80px;
+}
